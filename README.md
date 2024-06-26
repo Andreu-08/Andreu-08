@@ -1,10 +1,10 @@
 
 
-<h1 align="right">Hey 👋 What's up?</h1>
+<h1 align="left">ANDREU ORENGA DEV 🛜</h1>
 
 ###
 
-<p align="right">My name is Andreu, and I am a Web Developer!</p>
+<p align="left">My name is Andreu, and I am a Web Developer!</p>
 
 ###
 
